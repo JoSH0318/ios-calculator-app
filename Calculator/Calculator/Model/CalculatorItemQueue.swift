@@ -48,3 +48,4 @@ struct CalculatorItemQueue<Element: CalculatorItem> {
 protocol CalculatorItem { }
 
 extension Double: CalculatorItem { }
+
